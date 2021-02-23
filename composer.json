@@ -1,0 +1,9 @@
+{
+    "name": "mac/test-kit",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
